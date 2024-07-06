@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tank_main",
+            "request": "launch",
+            "mainClass": "com.game.war_tank.tank_main",
+            "projectName": "mygame_22239054"
+        }
+}
